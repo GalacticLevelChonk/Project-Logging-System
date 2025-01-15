@@ -1,0 +1,122 @@
+2025-01-14 - 2025-01-14 | 15:46:25 - 15:46:29
+    Session duration: 0h 0m 4s
+
+  
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 2025-01-14 - 2025-01-14 | 16:16:21 - 16:16:24 : 2025-01-14 - 2025-01-14
+    Session duration: 0h 0m 0s
+
+  
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 2025-01-14 - 2025-01-14 : 16:19:23 - 16:19:2616:19:19 - 16:19:20 : 2025-01-14 - 2025-01-14
+    Session duration: 0h 0m 1s
+
+  
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 2025-01-14 - 2025-01-14 : 16:19:51 - 16:19:53 | 16:19:49 - 16:19:50 : 2025-01-14 - 2025-01-14
+    Session duration: 0h 0m 1s
+
+  
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 2025-01-14 - 2025-01-14 : 2025-01-14 - 2025-01-14 | 16:21:21 - 16:21:23 : 16:21:28 - 16:21:31
+    Session duration: 0h 0m 1s
+
+  
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 2025-01-14 - 2025-01-14 : 2025-01-14 - 2025-01-14 | 16:22:09 - 16:22:10 : 16:22:12 - 16:22:15
+    Session duration: 0h 0m 1s
+
+  
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 2025-01-14 - 2025-01-14 : 2025-01-14 - 2025-01-14 | 16:44:04 - 16:44:07 : 16:44:12 - 16:44:14
+    Session duration: 0h 0m 0s
+
+  
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 2025-01-14 - 2025-01-14 : 2025-01-14 - 2025-01-14 | 16:44:41 - 16:45:02 : 16:45:10 - 16:45:12
+    Session duration: 0h 0m 23s
+
+  
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 
+
+2025-01-14 - 2025-01-14 | 17:38:46 - 17:38:50
+    Session duration: 0h 0m 4s
+
+  
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 
+
+2025-01-14 - 2025-01-14 : 2025-01-14 - 2025-01-14 | 16:44:41 - 16:45:02 : 17:41:18 - 17:41:50
+    Session duration: 0h 0m 53s
+
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 
+
+2025-01-14 - 2025-01-14 | 17:43:13 - 17:43:25
+    Session duration: 0h 0m 12s
+
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 
+
+2025-01-14 - 2025-01-14 | 17:43:48 - 17:43:55
+    Session duration: 0h 0m 6s
+
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 
+
+2025-01-14 - 2025-01-14 | 17:49:26 - 17:49:35
+    Session duration: 0h 0m 9s
+
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 
+
+2025-01-14 - 2025-01-14 | 17:50:08 - 17:50:16
+    Session duration: 0h 0m 7s
+
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 
+
+2025-01-14 - 2025-01-14 : 2025-01-14 - 2025-01-14 | 17:51:44 - 17:51:47 : 17:54:27 - 17:54:34
+    Session duration: 0h 0m 9s
+
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 
+
+2025-01-14 - 2025-01-14 : 2025-01-14 - 2025-01-14 | 17:54:54 - 17:55:15 : 17:55:19 - 17:55:23
+    Session duration: 0h 0m 25s
+
+     Session Information: 
+         Intention: None added
+              Completed Tasks: 0
+                  Tasks: 
