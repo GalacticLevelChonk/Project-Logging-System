@@ -31,8 +31,6 @@ struct TimeTracker{
 
     std::string compoundLine;
 
-    bool isDateAppended = false;
-
         while(std::getline(inFile, line)){
             if(line.find(searchQuery) != std::string::npos){
                 std::cout << "Repeated";
