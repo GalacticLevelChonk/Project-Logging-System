@@ -163,8 +163,7 @@ void EndClock(){
     }
     std::cout << "Work session ended\n\n";
 
-    std::cout << "\n\nWasPAUSED: " << wasPaused << "\n\n";
-    wasPaused ? savePauseData(true) : SaveToFile(true);
+   wasPaused ? savePauseData(true) : SaveToFile(true);
     SaveInfo(intention, tasks);
     std::cout << std::endl;
     exit(0);
@@ -234,8 +233,6 @@ void SaveInfo(std::string intention, std::vector<std::string> tasks){
 
 
 
-long long int totalSecondsSpent;
-    
 std::string ConvertTimeToString(std::chrono::system_clock::time_point clock, bool getDate = false){
     std::time_t now_time_t = std::chrono::system_clock::to_time_t(clock);
 
